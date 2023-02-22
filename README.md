@@ -1,6 +1,15 @@
-# Elena Pindado 
+# Elena Pindado 👩‍💻 
 
- 📊 Data Analyst & Data Science 📈
+
+📊 Data Analyst & Data Science 📈
+
+
+Hola! 👋🏻 Soy Elena! Data Analyst entusiasta , a la que le encanta contar historias a través de los datos, investigar y descubrir a través de ellos patrones y tendencias que de otra forma podrían pasar desapercibidos. 
+
+   "La información puede convertirse en conocimiento"
+
+
+- Hard Skills:
  
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
