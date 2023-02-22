@@ -1,12 +1,12 @@
-# Elena Pindado 👩‍💻 
+ # Elena Pindado 👩‍💻 
 
 
-📊 Data Analyst & Data Science 📈
+ # 📊 Data Analyst & Data Science 📈
 
 
 Hola! 👋🏻 Soy Elena! Data Analyst entusiasta , a la que le encanta contar historias a través de los datos, investigar y descubrir a través de ellos patrones y tendencias que de otra forma podrían pasar desapercibidos. 
 
-   "La información puede convertirse en conocimiento"
+   "La información debe tratarse como algo valioso que puede convertirse en conocimiento"
 
 
 - Hard Skills:
