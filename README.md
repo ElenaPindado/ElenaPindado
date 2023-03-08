@@ -1,4 +1,7 @@
  # Elena Pindado 👩‍💻 
+ 
+ ![Beige Feminine Personal LinkedIn Banner](https://user-images.githubusercontent.com/123492666/223754396-8af3b140-de68-48fd-9c85-0142a5af85fc.png)
+
 
 
  # 📊 Data Analyst & Data Science 📈
