@@ -1,10 +1,9 @@
- # Elena Pindado 👩‍💻 
  
  ![Beige Feminine Personal LinkedIn Banner](https://user-images.githubusercontent.com/123492666/223754396-8af3b140-de68-48fd-9c85-0142a5af85fc.png)
 
 
 
- # 📊 Data Analyst & Data Science 📈
+ # 📊 Data Analyst & Data Scientist 📈 | Business Intelligence 
 
 
 Hola! 👋🏻 Soy Elena! Data Analyst entusiasta , a la que le encanta contar historias a través de los datos, investigar y descubrir a través de ellos patrones y tendencias que de otra forma podrían pasar desapercibidos. 
