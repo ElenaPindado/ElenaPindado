@@ -27,6 +27,7 @@ Hola! 👋🏻 Soy Elena!👩‍💻 Data Analyst entusiasta , a la que le encan
  ![MySQL](https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
  ![PowerBI](https://camo.githubusercontent.com/d10e346678b885e7ebed0f04e8a2e0874c276520997b070623819cfea2f02d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b)
  ![Power Query](https://img.shields.io/badge/PowerQuery-3670A0?style=for-the-badge&logo=SQL&logoColor=dark)
+ ![DAX](https://img.shields.io/badge/DAX-3670A0?style=for-the-badge&logo=SQL&logoColor=dark)
  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
  ![Big Query](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
  ![Data Studio](https://img.shields.io/badge/DataStudio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
