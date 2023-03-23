@@ -30,7 +30,7 @@ Hola! 👋🏻 Soy Elena!👩‍💻 Data Analyst entusiasta , a la que le encan
  ![DAX](https://img.shields.io/badge/DAX-3670A0?style=for-the-badge&logo=SQL&logoColor=dark)
  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
  ![Big Query](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
- ![Looker Studio](https://img.shields.io/badge/DataStudio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+ ![Looker Studio](https://img.shields.io/badge/Looker Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
  ![Excel](https://camo.githubusercontent.com/890904a688ecd46a273f0a19c32721ccd49d6e9fab9f3900369e95e17f2f24e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f457863656c2d3231373334363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d657863656c266c6f676f436f6c6f723d7768697465)
 
  
