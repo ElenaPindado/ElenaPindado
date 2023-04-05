@@ -23,14 +23,16 @@ Hola! 👋🏻 Soy Elena!👩‍💻 Data Analyst entusiasta , a la que le encan
  ![Plotly](https://camo.githubusercontent.com/2f9c3edd9ff2d48dd262b930c3f5faf9d5956ae61661f2df1d4c941f143d36c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d2532333346344637352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465)
  ![Streamlit](https://camo.githubusercontent.com/27f9e1c4062695ef12a17ce0b00154309d617afab8e9cd09578f9efb7a55b0ac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53747265616d6c69742d4546333933393f7374796c653d666f722d7468652d6261646765266c6f676f3d53747265616d6c6974266c6f676f436f6c6f723d7768697465)
  ![SQL](https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&logo=SQL&logoColor=dark)
- ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-3670A0?style=for-the-badge&logo=SQL&logoColor=dark)
+ ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
  ![MySQL](https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
+ ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
  ![PowerBI](https://camo.githubusercontent.com/d10e346678b885e7ebed0f04e8a2e0874c276520997b070623819cfea2f02d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b)
  ![Power Query](https://img.shields.io/badge/PowerQuery-3670A0?style=for-the-badge&logo=SQL&logoColor=dark)
  ![DAX](https://img.shields.io/badge/DAX-3670A0?style=for-the-badge&logo=SQL&logoColor=dark)
  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
  ![Big Query](https://img.shields.io/badge/Big_Query-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
  ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+ ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
  
 
  
