@@ -36,7 +36,7 @@ Hola! 👋🏻 Soy Elena!👩‍💻 Data Analyst entusiasta , a la que le encan
  
  
  
- <img width="196" alt="ga4" src="https://user-images.githubusercontent.com/123492666/232537586-2af1dac1-8cb0-4809-8350-25240ad93bcb.png">
+ <img width="120" alt="ga4" src="https://user-images.githubusercontent.com/123492666/232537586-2af1dac1-8cb0-4809-8350-25240ad93bcb.png">
 
  
  
