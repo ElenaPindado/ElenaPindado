@@ -29,12 +29,16 @@ Hola! 👋🏻 Soy Elena!👩‍💻 Data Analyst entusiasta , a la que le encan
  ![PowerBI](https://camo.githubusercontent.com/d10e346678b885e7ebed0f04e8a2e0874c276520997b070623819cfea2f02d8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7765725f62692d4632433831313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b)
  ![Power Query](https://img.shields.io/badge/PowerQuery-3670A0?style=for-the-badge&logo=SQL&logoColor=dark)
  ![DAX](https://img.shields.io/badge/DAX-3670A0?style=for-the-badge&logo=SQL&logoColor=dark)
- ![GA4](https://img.shields.io/badge/GA4-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+ ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
  ![Big Query](https://img.shields.io/badge/Big_Query-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
  ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+ ![GA4](https://img.shields.io/badge/GA4-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
  
+ 
+ 
+ <img width="196" alt="ga4" src="https://user-images.githubusercontent.com/123492666/232537586-2af1dac1-8cb0-4809-8350-25240ad93bcb.png">
 
+ 
  
  ##  ![GitHub](https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
  
