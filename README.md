@@ -6,9 +6,11 @@
  # 📊 Data Analyst & Data Scientist 📈 | Business Intelligence 
 
 
-Hola! 👋🏻 Soy Elena!👩‍💻 Data Analyst entusiasta , a la que le encanta contar historias a través de los datos, investigar y descubrir a través de ellos patrones y tendencias que de otra forma podrían pasar desapercibidos. 
+👋 ¡Hola! Soy Elena, apasionada del mundo de los datos y la comunicación. Mi perfil se caracteriza por una fuerte capacidad analítica y de aprendizaje, una curiosidad insaciable, pensamiento innovador y siempre en constante evolución.
 
-   "La información debe tratarse como algo valioso que puede convertirse en conocimiento"
+📊 Mi enfoque se centra en contar historias a través de los datos, investigar y descubrir el conocimiento oculto que hay en ellos. 
+
+🎯 Creo firmemente que la información es un activo valioso que puede convertirse en un conocimiento poderoso. Mi objetivo es aprovechar esta información para tomar decisiones informadas y conducir estrategias basadas en datos.
 
 
  # - Hard Skills:
