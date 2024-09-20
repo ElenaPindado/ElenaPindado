@@ -6,11 +6,11 @@
  # 📊 Data Analyst & Data Scientist 📈 | Business Intelligence 
 
 
-👋 ¡Hola! Soy Elena, apasionada del mundo de los datos y la comunicación. Mi perfil se caracteriza por una fuerte capacidad analítica y de aprendizaje, curiosidad, pensamiento innovador y siempre en constante evolución.
+👋 ¡Hola! Soy Elena, Data Analyst & Business Intelligence Developer. Mi perfil se caracteriza por una fuerte capacidad analítica y de aprendizaje, curiosidad, pensamiento innovador y siempre en constante evolución.
 
 📊 Mi enfoque se centra en contar historias a través de los datos, investigar y descubrir el conocimiento oculto que hay en ellos. 
 
-🎯 La información es un activo valioso que puede convertirse en conocimiento. Mi objetivo es aprovechar esta información para tomar decisiones informadas y conducir estrategias basadas en datos.
+🎯 La información es un activo valioso, mi objetivo es aprovechar esta información para facilitar la toma de decisiones y conducir estrategias basadas en datos.
 
 
  # - Hard Skills:
@@ -40,8 +40,8 @@
  ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
  
  
- 
- <img width="120" alt="ga4" src="https://user-images.githubusercontent.com/123492666/232537586-2af1dac1-8cb0-4809-8350-25240ad93bcb.png">
+
+ <img width="120" alt="ga4" src= "https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/PowerPlatform/badge-powerbi-data-analyst.png"> <img width="120" alt="ga4" src="https://user-images.githubusercontent.com/123492666/232537586-2af1dac1-8cb0-4809-8350-25240ad93bcb.png"> 
 
  
  
